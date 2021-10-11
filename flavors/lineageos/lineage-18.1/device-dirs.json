@@ -1,0 +1,13 @@
+{
+"device/xiaomi/rolex": {
+    "date": "2020-07-24T18:00:39+02:00",
+      "deepClone": false,     
+      "deps": [],  
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "path": "/nix/store/8j4nwnjypimi3nc2rxnwcsqh2pj4kl64-android_xiaomi-rolex",
+      "rev": "1588611f4996a827433795849cead493ef595358",
+      
+    "sha256": "0k8m6jc4w51rhan44l0mhfwfpkyp51hv9zgxvpmr1bhgkzh4z2vp",
+    "url": "https://github.com/redmidevs/android_device_xiaomi_rolex" 
+}
